@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Horario
+comment1.params=p
+comment1.target=Horario(Plantilla)
+comment10.params=
+comment10.target=java.util.ArrayList\ getActividades()
+comment11.params=
+comment11.target=java.util.ArrayList\ getSemana()
+comment12.params=diaActual
+comment12.target=java.util.ArrayList\ obtenerBloques(java.lang.String)
+comment2.params=a
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=scan
+comment3.target=void\ asignarActividad(java.util.Scanner)
+comment4.params=b\ scan
+comment4.target=BloqueDeTiempo\ selecBloquesDeTiempo(java.util.ArrayList,\ java.util.Scanner)
+comment5.params=b\ scan
+comment5.target=Actividad\ crearActividad(BloqueDeTiempo,\ java.util.Scanner)
+comment6.params=scan
+comment6.target=void\ modificarHorario(java.util.Scanner)
+comment7.params=scan\ diaIndex
+comment7.target=void\ asignarActividad(java.util.Scanner,\ int)
+comment8.params=
+comment8.target=void\ mostrarHorario()
+comment9.params=
+comment9.target=java.lang.String\ getNombre()
+numComments=13
