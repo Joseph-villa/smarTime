@@ -41,7 +41,7 @@
 
  Sigue el menú interactivo en la consola:
  1.Crear plantilla: Define una plantilla con bloques de tiempo por día.
- 2.Crear horario: Crea un horario basado en una plantilla y asigna actividades.
+ 2.Asignar horario: Crea un horario basado en una plantilla y asigna actividades.
  3.Modificar plantilla: Edita bloques de tiempo en una plantilla.
  4.Modificar horario: Edita bloques o actividades en un horario.
  5.Eliminar plantilla: Borra una plantilla existente.
