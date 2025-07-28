@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BancoHorarios
+comment1.params=
+comment1.target=BancoHorarios()
+comment2.params=nombre
+comment2.target=boolean\ existeNombre(java.lang.String)
+numComments=3

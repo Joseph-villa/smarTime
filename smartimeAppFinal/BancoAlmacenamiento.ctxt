@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BancoAlmacenamiento
+comment1.params=
+comment1.target=BancoAlmacenamiento()
+comment2.params=
+comment2.target=java.util.ArrayList\ getElementos()
+comment3.params=elemento
+comment3.target=void\ agregar(java.lang.Object)
+comment4.params=nombre
+comment4.target=void\ eliminar(java.lang.String)
+comment5.params=nombre
+comment5.target=java.lang.Object\ obtenerPorNombre(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ obtenerTodos()
+numComments=7

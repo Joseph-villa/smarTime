@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Dia
+comment1.params=nom
+comment1.target=Dia(java.lang.String)
+comment2.params=scan
+comment2.target=void\ asignarBloque(java.util.Scanner)
+comment3.params=scan
+comment3.target=int[]\ parseHora(java.util.Scanner)
+comment4.params=scan
+comment4.target=void\ modificarDia(java.util.Scanner)
+comment5.params=horaIni\ horaFin\ indiceExcluido
+comment5.target=boolean\ noChocaConOtro(int[],\ int[],\ int)
+comment6.params=horaIni\ horaFin
+comment6.target=boolean\ noChocaConOtro(int[],\ int[])
+comment7.params=indice
+comment7.target=void\ eliminarBloque(int)
+comment8.params=
+comment8.target=java.lang.String\ getNombreDia()
+comment9.params=
+comment9.target=java.util.ArrayList\ getBloques()
+numComments=10

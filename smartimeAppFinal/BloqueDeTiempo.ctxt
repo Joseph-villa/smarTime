@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BloqueDeTiempo
+comment1.params=ini\ fin\ tipo
+comment1.target=BloqueDeTiempo(int[],\ int[],\ int)
+comment10.params=
+comment10.target=int[]\ getHoraFin()
+comment11.params=
+comment11.target=java.util.ArrayList\ getActividades()
+comment12.params=
+comment12.target=java.lang.String\ getHorarioTexto()
+comment2.params=act
+comment2.target=void\ agregarActividad(Actividad)
+comment3.params=indice
+comment3.target=void\ eliminarActividad(int)
+comment4.params=
+comment4.target=int\ duracMin()
+comment5.params=horaIni
+comment5.target=void\ setHoraIni(int[])
+comment6.params=horaFin
+comment6.target=void\ setHoraFin(int[])
+comment7.params=tipo
+comment7.target=void\ setTipo(int)
+comment8.params=
+comment8.target=java.lang.String\ getNombreBloque()
+comment9.params=
+comment9.target=int[]\ getHoraIni()
+numComments=13
